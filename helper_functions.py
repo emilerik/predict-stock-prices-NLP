@@ -40,7 +40,3 @@ def extract_8k(text):
         text_8k += text[beg:end].strip()
     return text_8k
 
-def foo():
-    print("Hello")
-    re.compile("Hello").search("Hello")
-
