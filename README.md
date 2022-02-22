@@ -1,7 +1,11 @@
 # Evaluating Predictive Power of SEC 8-K Forms on Stock Prices
 A project as part of the course "Text Mining" at Linköping University.
 
-All of the functions and steps are explained in `main.ipynb`
+Files:
+- `main.ipynb` - the bulk of the project
+- `helper_functions.py` - some helper functions used in preprocessing
+- `processed_df.csv` - all the data after preprocessing steps
+- `models/` directory with the trained models and their histories. See `main.ipynb` for how they're loaded.
 
 Abstract:
 
